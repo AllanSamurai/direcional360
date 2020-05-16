@@ -1,4 +1,9 @@
-Para exibir no outro dominio requisitado. bBsta colocar no final do dominio a variavel de qual interação é para carregar.
+Responsivo: versões Desktop/Mobile com mudança automatica de acordo com o dispositivo onde será apresentado.
+
+Cada foto 360 no Desktop baixa entre 2.2mb a 3.3mb
+Cada foto 360 no Mobile baixa entre 700kb a 1.2mb
+
+Para exibir no outro dominio requisitado. basta colocar no final do dominio a variavel de qual interação é para carregar.
 
 No fim da url acrescente por ex.: 
 
