@@ -19,3 +19,12 @@ Conquista da Lagoa:
 
 Conquista Esmeralda:
 * https://allansamurai.github.io/direcional360/?s=conquistaesmeralda
+
+Meet Residence:
+* https://allansamurai.github.io/direcional360/?s=meetresidence
+
+Reserva do Lago:
+* https://allansamurai.github.io/direcional360/?s=reservadolago
+
+Reserva das Flores:
+* https://allansamurai.github.io/direcional360/?s=reservadasflores
